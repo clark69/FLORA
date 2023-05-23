@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">422658963033-7fjg7mh3sukn3sgc1pgjnfav9tc21tjg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flora-9ab03-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">422658963033</string>
+    <string name="google_api_key" translatable="false">AIzaSyBuJy5hStQvdSSiEP2aESR4jswUZdvxjio</string>
+    <string name="google_app_id" translatable="false">1:422658963033:android:6d51398365932a2d226348</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBuJy5hStQvdSSiEP2aESR4jswUZdvxjio</string>
+    <string name="google_storage_bucket" translatable="false">flora-9ab03.appspot.com</string>
+    <string name="project_id" translatable="false">flora-9ab03</string>
+</resources>
